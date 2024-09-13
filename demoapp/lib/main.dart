@@ -7,7 +7,7 @@ import 'package:get/get.dart';
 /// and routing.
 
 void main() {
-  runApp(MyApp());
+  runApp(MyApp()); 
 }
 
 class MyApp extends StatelessWidget {
